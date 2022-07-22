@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical">
+    <WebView
+        android:id="@+id/cctv_webview"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/yesButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cctv_button_background"
+            android:text="확인"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            />
+
+</LinearLayout>

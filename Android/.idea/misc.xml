@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/drawable/cctv_button_background.xml" value="0.17" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/drawable/fragment_background.xml" value="0.17" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/drawable/selector_radio_button.xml" value="0.1855" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/drawable/selector_radio_text.xml" value="0.17" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/drawable/switch_thumb.xml" value="0.17" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/drawable/switch_thumb_off.xml" value="0.17" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/drawable/switch_thumb_on.xml" value="0.17" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/drawable/switch_track.xml" value="0.17" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/drawable/switch_track_off.xml" value="0.17" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/drawable/switch_track_on.xml" value="0.17" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/drawable/textcolor.xml" value="0.1855" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/drawable/togglebtn_rounded.xml" value="0.1855" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/drawable/weather_background.xml" value="0.1855" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/layout/cctv_dialog.xml" value="0.16875" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/layout/fragment_bedroom.xml" value="0.2390625" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/layout/fragment_kitchen.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/layout/fragment_livingroom.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/yt135/Desktop/SWProject/Android/app/src/main/res/layout/temp_dialog.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
